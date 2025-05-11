@@ -1,0 +1,2 @@
+30 20 11 5 2025 cmd /c "echo %date% %time% && echo One Time task"
+*/1 cmd /c "echo %date% %time% && echo recurring task- Every Minute"
